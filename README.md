@@ -26,7 +26,7 @@
 
 
 ### 제작자
-|<img src="https://github.com/leebo155.png" width=240>|<img src="https://github.com/shng6815.png" width="240">|<img src="https://github.com/kofeeel.png" width=240>|<img src="https://github.com/Baekbanjang.png" width=240>|<img src="https://github.com/chaseunggeun.png" width=240>|
+|<img src="https://github.com/leebo155.png" width=240>|<img src="https://github.com/kofeeel.png" width=240>|<img src="https://github.com/shng6815.png" width="240">|<img src="https://github.com/Baekbanjang.png" width=240>|<img src="https://github.com/chaseunggeun.png" width=240>|
 |:--:|:--:|:--:|:--:|:--:|
-|[Bohyeong Lee](https://github.com/leebo155)|[SEO HUIYEONG](https://github.com/shng6815)|[Hasimu](https://github.com/kofeeel)|[Baekbanjang](https://github.com/Baekbanjang)|[chaseunggeun](https://github.com/chaseunggeun)|
+|[Bohyeong Lee](https://github.com/leebo155)|[Hasimu](https://github.com/kofeeel)|[SEO HUIYEONG](https://github.com/shng6815)|[Baekbanjang](https://github.com/Baekbanjang)|[chaseunggeun](https://github.com/chaseunggeun)|
 |팀장|기획|클라이언트|클라이언트|클라이언트|
